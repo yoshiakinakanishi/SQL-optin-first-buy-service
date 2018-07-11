@@ -1,4 +1,5 @@
 # SQL-optin6
 集計開始日～集計終了日の期間に「OPT IN」となっていたユーザーの初回購入サービス
 
-<img width="952" alt="2018-07-11 18 50 24" src="https://user-images.githubusercontent.com/28942665/42564304-616bcbd0-853b-11e8-96a8-fa77856f0a0a.png">
+<img width="989" alt="2018-07-11 19 14 48" src="https://user-images.githubusercontent.com/28942665/42565564-c9221a88-853e-11e8-9e29-b98183d2f938.png">
+
